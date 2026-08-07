@@ -1,0 +1,5 @@
+docs/**/*.html linguist-vendored
+
+*.sh text eol=lf
+src/**/*.js linguist-detectable
+go.sum linguist-generated
